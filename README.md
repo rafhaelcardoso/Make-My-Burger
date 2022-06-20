@@ -16,7 +16,7 @@
 </p><br>
 <p align="left">
     <img src="https://user-images.githubusercontent.com/100536547/174497257-7eaf011e-4785-44bc-96fa-a4d6482bec68.png" alt="OrderDashboard" width="700"><br>
-    <i>Ao entrar na rota de pedidos, é possível encontrar o histórico dos pedidos. Aqui também conseguimos alterar o Status de do pedido ou deletar.</i>
+    <i>Ao entrar na rota de pedidos, é possível encontrar o histórico dos pedidos.<br> Aqui também conseguimos alterar o Status do pedido ou deletar.</i>
 </p>
   
   
